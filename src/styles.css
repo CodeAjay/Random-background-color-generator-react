@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+  padding-top: 22%;
+  padding-bottom: 20%;
+  top: 20%;
+  height: 100vh;
+}
+
+#btno {
+  margin-bottom: 15px;
+  padding: 15px 40px;
+  font-size: 25px;
+}
